@@ -1,0 +1,110 @@
+body {
+    font-family: sans-serif;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
+
+header{
+    display: flex;
+    height: 250px;
+    width: 100%;
+    background-color: aquamarine;
+    padding-top: 50px;
+    padding-left: 50px;
+
+}
+
+nav {
+    padding-top: 70px;
+    padding-left: 50px;
+    
+}
+a {
+    margin-left: 20px;
+    padding: 5px;
+    border: 2px solid black;
+    text-decoration: none ;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.h {
+    
+    
+    color: red;
+    
+}
+
+main, h1{
+    text-align: center;
+}
+
+main, h2{
+    text-align: left;
+    padding: 10px;
+}
+
+
+td {
+
+    width: 45%;
+    height: 150px;
+    border: 5px solid black;
+    border-radius: 5px;
+}   
+
+main, p {
+    text-align: center;
+}
+
+.info {
+    display: flex;
+    text-align: center;   
+}
+
+
+.container {
+    border: 5px solid grey;
+    border-radius: 10px;
+    background-color: gray;
+    width: 40%;
+    height: 300px;
+    margin: 30px;
+    text-align: center;
+}
+
+.shapka {
+    text-align: center;
+    width: 70%;
+    border: 5px solid white;
+    border-radius: 10px;
+    height: 20px;
+    background-color: white;
+    margin-left: 45px;
+    margin-top: 10px;
+}
+
+li {
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    width: 80%;
+    margin-top:20px;
+}
+
+main {
+    background-color: lightgreen;
+}
+
+footer {
+    background-color: lightskyblue;
+}
+
+main, img {
+    text-align: center;
+}
+
+
+
